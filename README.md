@@ -46,6 +46,3 @@ The work reflects applied implementation of:
 
 ---
 
-## Contact
-
-GitHub: https://github.com/VEGAProductionsBN
