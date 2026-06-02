@@ -23,7 +23,6 @@ The work reflects applied implementation of:
 |------------|------|
 | IoT_Metadata_for_Video_Editing | Video metadata structuring and event-based annotation systems |
 | KV6021_machine_learning | Machine learning experimentation and model evaluation (Jupyter-based) |
-| FightNight | Game jam project focused on rapid gameplay development |
 | FloodMappingLondon | GIS-based flood risk mapping and environmental data analysis |
 
 ---
